@@ -16,4 +16,5 @@ Dentro de la carpeta donde estan todos los archivos abrir una terminal
 - dotnet run
 
 se incluyen la lista de endpoints en formato de postman en el archivo llamado
-.Examen3erParcialDWBE.postman_collection
+
+Examen3erParcialDWBE.postman_collection
